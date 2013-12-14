@@ -1,12 +1,14 @@
 ## Alexander Ignatenko
 
+iOS developer with wide programming interests and web development background.
+
 Location      |  Email            | Skype                   |
 :------------ | :-----------------|:------------------------|
 Kiev, Ukraine | avi.cpp@gmail.com |alexander.ignatenko.work |
 
 ## [Infopulse Ukraine](http://www.infopulse.com.ua/) (July 2012 - Present)
 <http://www.infopulse.com.ua>
-##### REST, AFNetworking, Core Data, Concurrent programming, Cryptography.
+##### REST, AFNetworking, NSURLConnection, Core Data, Concurrent programming, Security.
 
 Architecture design of network based apps and client-server integration is the main focus here. Experience includes
 multithreading Core Data setup, data import from REST+JSON
@@ -30,6 +32,15 @@ components. Core Data was also essential part of development.
 Mostly was doing backend development and SQL optimisations. Also gained experience at frontend related things:
 plain HTML+CSS together with jQuery.
 
-## Background and Interests
-Power shell user, Linux and Open Source fan, very interested in Ruby language and related technologies,
-have strong base of C and C++. Confident with git.
+## Enucation
+**National Technical University of Ukraine 'Kyiv Polytechnic Institute'**
+
+Master's degree, Electrical Engineering (2005-2011)
+
+## Interests and other skills
+- Ruby language and related technologies
+- Clojure language and related technologies
+- Strong base of C and C++
+- Confident with git.
+- Power unix shell user
+- Linux and Open Source
