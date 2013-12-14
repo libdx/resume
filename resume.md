@@ -2,9 +2,9 @@
 
 iOS developer with wide programming interests and web development background.
 
-Location      |  Email            | Skype                   |
-:------------ | :-----------------|:------------------------|
-Kiev, Ukraine | avi.cpp@gmail.com |alexander.ignatenko.work |
+Location      |  Email            | Skype                   | Tel.                |
+:------------ | :-----------------|:------------------------|:--------------------|
+Kiev, Ukraine | avi.cpp@gmail.com |alexander.ignatenko.work | +380 (63) 325 07 01 |
 
 ## [Infopulse Ukraine](http://www.infopulse.com.ua/) (July 2012 - Present)
 <http://www.infopulse.com.ua>
@@ -32,7 +32,7 @@ components. Core Data was also essential part of development.
 Mostly was doing backend development and SQL optimisations. Also gained experience at frontend related things:
 plain HTML+CSS together with jQuery.
 
-## Enucation
+## Education
 **National Technical University of Ukraine 'Kyiv Polytechnic Institute'**
 
 Master's degree, Electrical Engineering (2005-2011)
